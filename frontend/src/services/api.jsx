@@ -69,7 +69,7 @@ class ApiService {
     return this.request('/purchases/options');
   }
 
-  // User endpoints
+ 
   getUserProfile() {
     return this.request('/user/profile');
   }
